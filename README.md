@@ -37,14 +37,13 @@ pip install -r requirements.txt
     <h2 id="training">Training</h2>
     <p>To train the model for 50 epochs, modify the configuration and run the following command:</p>
     <pre>
-bash train_dino.sh
+!bash scripts/DINO_train.sh /content/drive/MyDrive/COCODIR --pretrain_model_path /path/to/a/pretrianed/resnet50    
     </pre>
     <p>Checkpoints are saved at different stages, including the 49th checkpoint and the best checkpoint.</p>   
     <h2 id="weights">Weights</h2>
-    <p>Download the fine-tuned weights for further training or inference:</p>
+    <p> To Access and Download the fine-tuned weights for further training or inference:</p>
     <ul>
-        <li><a href="https://drive.google.com/your-link-here">Download 49th Checkpoint</a></li>
-        <li><a href="https://drive.google.com/your-link-here">Download Best Checkpoint</a></li>
+        <li><a href="https://drive.google.com/your-link-here">To Access the 49th Checkpoint and the Best weight Checkpoint</a></li>
     </ul> 
 <h2 id="visual-inference">Visual Inference</h2>
 <p>All the plots generated during the experiment are available in the <strong>Plot</strong> folder in the GitHub repository. The plots include:</p>
