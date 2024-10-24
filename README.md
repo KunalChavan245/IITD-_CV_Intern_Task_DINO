@@ -61,7 +61,7 @@ bash train_dino.sh
     <h2 id="references">References</h2>
     <ul>
         <li><a href="https://arxiv.org/abs/2104.14294">DINO Paper</a></li>
-        <li><a href="https://github.com/your-repo-link">Original GitHub Repository</a></li>
+        <li><a href="https://github.com/IDEA-Research">Original GitHub Repository</a></li>
     </ul>
 </body>
 </html>
