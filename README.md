@@ -20,7 +20,7 @@
         <li><a href="#references">References</a></li>
     </ul>    
     <h2 id="data-preprocessing">Data Preprocessing</h2>
-    <p>The dataset was preprocessed to normalize image sizes and annotated for the 4 object classes. Each image was resized and labeled according to the DINO model requirements.</p> 
+    <p>The dataset was preprocessed to normalize image sizes and annotated for the 4 object classes. Each image was resized and labeled according to the DINO model requirements.To increase the model performance data agumentation was also where images were fliped vertically.</p> 
     <h2 id="installation">Installation</h2>
     <p>Follow these steps to install the necessary dependencies:</p>
     <pre>
