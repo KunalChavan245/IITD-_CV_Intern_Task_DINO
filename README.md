@@ -46,13 +46,16 @@ bash train_dino.sh
         <li><a href="https://drive.google.com/your-link-here">Download 49th Checkpoint</a></li>
         <li><a href="https://drive.google.com/your-link-here">Download Best Checkpoint</a></li>
     </ul> 
-    <h2 id="visual-inference">Visual Inference</h2>
-    <p>The following images display the model's performance across different metrics:</p>
-    <ul>
-        <li><img src="[Plots/Average Precision for Different IoU and Object Sizes.png/avg_precision_iou_object_sizes.png](https://github.com/KunalChavan245/IITD-_CV_Intern_Task_DINO/blob/72d1facc4d3661bfca69f55b4e8d3db5e715ec7b/Plots/Average%20Precision%20for%20Different%20IoU%20and%20Object%20Sizes.png)" alt="Average Precision"></li>
-        <li><img src="Plots/Average Recall for Different IoU and Object Sizes.png/avg_recall_iou_object_sizes.png" alt="Average Recall"></li>
-        <li><img src="path_to_image/iou_metrics.png" alt="IoU Metrics"></li>
-        <li><img src="path_to_image/loss_vs_epochs.png" alt="Loss vs Epochs"></li>
+<h2 id="visual-inference">Visual Inference</h2>
+<p>All the plots generated during the experiment are available in the <strong>Plot</strong> folder in the GitHub repository. The plots include:</p>
+<ul>
+    <li>Average Precision for Different IoU and Object Sizes</li>
+    <li>Average Recall for Different IoU and Object Sizes</li>
+    <li>IoU Metrics</li>
+    <li>Loss vs Epochs</li>
+</ul>
+<p>You can view or download these plots from the <strong>Plot</strong> folder <a href="https://github.com/KunalChavan245/IITD-_CV_Intern_Task_DINO/tree/129d9ac66aab2220809b5c236c4d9229a42940a8/Plots">here</a>.</p>
+
     </ul> 
     <h2 id="results">Results</h2>
     <p>The model demonstrated good performance for object detection on a small dataset, with improvements in AP and AR over the training epochs. The final loss stabilized at around 4.5 by epoch 40.</p>   
