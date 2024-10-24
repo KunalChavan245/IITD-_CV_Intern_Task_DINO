@@ -43,7 +43,7 @@ pip install -r requirements.txt
     <h2 id="weights">Weights</h2>
     <p> To Access and Download the fine-tuned weights for further training or inference:</p>
     <ul>
-        <li><a href="[https://drive.google.com/drive/folders/1FYdbJ0qjGf_dhuJ2d3lefk2OqNFiomIS?usp=sharing]">To Access the 49th Checkpoint and the Best weight Checkpoint</a></li>
+        <li><a href="https://drive.google.com/drive/folders/1FYdbJ0qjGf_dhuJ2d3lefk2OqNFiomIS?usp=sharing">To Access the 49th Checkpoint and the Best weight Checkpoint</a></li>
     </ul> 
 <h2 id="visual-inference">Visual Inference</h2>
 <p>All the plots generated during the experiment are available in the <strong>Plot</strong> folder in the GitHub repository. The plots include:</p>
