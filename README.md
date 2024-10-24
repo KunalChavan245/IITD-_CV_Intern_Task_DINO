@@ -49,8 +49,8 @@ bash train_dino.sh
     <h2 id="visual-inference">Visual Inference</h2>
     <p>The following images display the model's performance across different metrics:</p>
     <ul>
-        <li><img src="path_to_image/avg_precision_iou_object_sizes.png" alt="Average Precision"></li>
-        <li><img src="path_to_image/avg_recall_iou_object_sizes.png" alt="Average Recall"></li>
+        <li><img src="Plots/Average Precision for Different IoU and Object Sizes.png/avg_precision_iou_object_sizes.png" alt="Average Precision"></li>
+        <li><img src="Plots/Average Recall for Different IoU and Object Sizes.png/avg_recall_iou_object_sizes.png" alt="Average Recall"></li>
         <li><img src="path_to_image/iou_metrics.png" alt="IoU Metrics"></li>
         <li><img src="path_to_image/loss_vs_epochs.png" alt="Loss vs Epochs"></li>
     </ul> 
