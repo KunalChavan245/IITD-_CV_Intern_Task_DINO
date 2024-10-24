@@ -55,7 +55,6 @@ bash train_dino.sh
     <li>Loss vs Epochs</li>
 </ul>
 <p>You can view or download these plots from the <strong>Plot</strong> folder <a href="https://github.com/KunalChavan245/IITD-_CV_Intern_Task_DINO/tree/129d9ac66aab2220809b5c236c4d9229a42940a8/Plots">here</a>.</p>
-
     </ul> 
     <h2 id="results">Results</h2>
     <p>The model demonstrated good performance for object detection on a small dataset, with improvements in AP and AR over the training epochs. The final loss stabilized at around 4.5 by epoch 40.</p>   
