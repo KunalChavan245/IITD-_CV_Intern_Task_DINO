@@ -57,7 +57,11 @@ bash train_dino.sh
 <p>You can view or download these plots from the <strong>Plot</strong> folder <a href="https://github.com/KunalChavan245/IITD-_CV_Intern_Task_DINO/tree/129d9ac66aab2220809b5c236c4d9229a42940a8/Plots">here</a>.</p>
     </ul> 
     <h2 id="results">Results</h2>
-    <p>The model demonstrated good performance for object detection on a small dataset, with improvements in AP and AR over the training epochs. The final loss stabilized at around 4.5 by epoch 40.</p>   
+    <h2 id="results">Results</h2>
+<p>The model successfully detected objects from the custom dataset. Below is the final predicted result from the model:</p>
+<img src="https://github.com/KunalChavan245/IITD-_CV_Intern_Task_DINO/blob/main/Results/Result.jpg" alt="Final Predicted Result" />
+
+<p>This image demonstrates the model's ability to detect and classify objects like person, animal, car, and cycle. For more details, check the repository.</p>
     <h2 id="references">References</h2>
     <ul>
         <li><a href="https://arxiv.org/abs/2104.14294">DINO Paper</a></li>
