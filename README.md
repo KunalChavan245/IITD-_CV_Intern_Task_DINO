@@ -24,8 +24,8 @@
     <h2 id="installation">Installation</h2>
     <p>Follow these steps to install the necessary dependencies:</p>
     <pre>
-git clone https://github.com/your-repo-link.git
-cd your-repo-link
+git clone https://github.com/IDEA-Research/DINO.git
+cd DINO
 pip install -r requirements.txt
     </pre>
     <p>In the <code>DINO_4scale.py</code> file, make the following changes:</p>
