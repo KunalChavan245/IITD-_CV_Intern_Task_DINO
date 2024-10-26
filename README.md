@@ -35,7 +35,7 @@ pip install -r requirements.txt
     </ul>
     <p>Additionally, replace deprecated <code>np.float</code> with <code>float</code> in the NumPy file.</p>   
     <h2 id="training">Training</h2>
-    <p>To train the model for 50 epochs, modify the configuration and run the following command:</p>
+    <p>To train the model for 50 epochs, modify Epochs = 50 and other parameter's like learning rate , batch size , optimizer , etc. of the DINO_4scale.py in config folder and run the following command:</p>
     <pre>
 !bash scripts/DINO_train.sh /content/drive/MyDrive/COCODIR --pretrain_model_path /path/to/a/pretrianed/resnet50    
     </pre>
