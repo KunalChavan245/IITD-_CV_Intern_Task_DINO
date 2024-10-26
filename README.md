@@ -56,7 +56,6 @@ pip install -r requirements.txt
 <p>You can view or download these plots from the <strong>Plot</strong> folder <a href="https://github.com/KunalChavan245/IITD-_CV_Intern_Task_DINO/tree/129d9ac66aab2220809b5c236c4d9229a42940a8/Plots">here</a>.</p>
     </ul> 
     <h2 id="results">Results</h2>
-    <h2 id="results">Results</h2>
 <p>The model successfully detected objects from the customized dataset. Below is the final predicted result from the model:</p>
 <img src="https://github.com/KunalChavan245/IITD-_CV_Intern_Task_DINO/blob/main/Results/Result.jpg" alt="Final Predicted Result" />
 
