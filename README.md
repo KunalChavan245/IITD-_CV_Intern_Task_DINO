@@ -57,7 +57,7 @@ pip install -r requirements.txt
     </ul> 
     <h2 id="results">Results</h2>
     <h2 id="results">Results</h2>
-<p>The model successfully detected objects from the custom dataset. Below is the final predicted result from the model:</p>
+<p>The model successfully detected objects from the customized dataset. Below is the final predicted result from the model:</p>
 <img src="https://github.com/KunalChavan245/IITD-_CV_Intern_Task_DINO/blob/main/Results/Result.jpg" alt="Final Predicted Result" />
 
 <p>This image demonstrates the model's ability to detect and classify objects like person, animal, car, and cycle. For more details, check the repository.</p>
